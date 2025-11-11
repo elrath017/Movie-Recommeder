@@ -1,0 +1,12 @@
+#libaries for data preprocessing
+#numpy
+#pandas
+#matplotlib
+#scikit-learn
+#nltk
+
+#libraries for building the web app
+uvicorn
+pickle
+streamlit
+requests
